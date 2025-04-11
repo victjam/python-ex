@@ -1,0 +1,74 @@
+Semana 1, trabajadores: 0, contratados: 0, costo: 400
+Semana 1, trabajadores: 1, contratados: 1, costo: 600
+Semana 1, trabajadores: 2, contratados: 2, costo: 800
+Semana 1, trabajadores: 3, contratados: 3, costo: 1000
+Semana 1, trabajadores: 4, contratados: 4, costo: 1200
+Semana 1, trabajadores: 5, contratados: 5, costo: 1400
+Semana 1, trabajadores: 6, contratados: 6, costo: 1600
+Semana 1, trabajadores: 7, contratados: 7, costo: 1800
+Semana 1, trabajadores: 8, contratados: 8, costo: 2000
+Semana 1, trabajadores: 9, contratados: 9, costo: 2200
+Semana 1, trabajadores: 10, contratados: 10, costo: 2400
+Semana 1, trabajadores: 11, contratados: 11, costo: 2600
+Semana 1, trabajadores: 12, contratados: 12, costo: 2800
+Semana 2, trabajadores: 0, mejor anterior: 0, costo acumulado: 400
+Semana 2, trabajadores: 1, mejor anterior: 1, costo acumulado: 600
+Semana 2, trabajadores: 2, mejor anterior: 2, costo acumulado: 800
+Semana 2, trabajadores: 3, mejor anterior: 3, costo acumulado: 1000
+Semana 2, trabajadores: 4, mejor anterior: 4, costo acumulado: 1200
+Semana 2, trabajadores: 5, mejor anterior: 5, costo acumulado: 1400
+Semana 2, trabajadores: 6, mejor anterior: 6, costo acumulado: 1600
+Semana 2, trabajadores: 7, mejor anterior: 7, costo acumulado: 1800
+Semana 2, trabajadores: 8, mejor anterior: 8, costo acumulado: 2000
+Semana 2, trabajadores: 9, mejor anterior: 9, costo acumulado: 2200
+Semana 2, trabajadores: 10, mejor anterior: 10, costo acumulado: 2400
+Semana 2, trabajadores: 11, mejor anterior: 11, costo acumulado: 2600
+Semana 2, trabajadores: 12, mejor anterior: 12, costo acumulado: 2800
+Semana 3, trabajadores: 0, mejor anterior: 0, costo acumulado: 400
+Semana 3, trabajadores: 1, mejor anterior: 1, costo acumulado: 600
+Semana 3, trabajadores: 2, mejor anterior: 2, costo acumulado: 800
+Semana 3, trabajadores: 3, mejor anterior: 3, costo acumulado: 1000
+Semana 3, trabajadores: 4, mejor anterior: 4, costo acumulado: 1200
+Semana 3, trabajadores: 5, mejor anterior: 5, costo acumulado: 1400
+Semana 3, trabajadores: 6, mejor anterior: 6, costo acumulado: 1600
+Semana 3, trabajadores: 7, mejor anterior: 7, costo acumulado: 1800
+Semana 3, trabajadores: 8, mejor anterior: 8, costo acumulado: 2000
+Semana 3, trabajadores: 9, mejor anterior: 9, costo acumulado: 2200
+Semana 3, trabajadores: 10, mejor anterior: 10, costo acumulado: 2400
+Semana 3, trabajadores: 11, mejor anterior: 11, costo acumulado: 2600
+Semana 3, trabajadores: 12, mejor anterior: 12, costo acumulado: 2800
+Semana 4, trabajadores: 0, mejor anterior: 0, costo acumulado: 400
+Semana 4, trabajadores: 1, mejor anterior: 1, costo acumulado: 600
+Semana 4, trabajadores: 2, mejor anterior: 2, costo acumulado: 800
+Semana 4, trabajadores: 3, mejor anterior: 3, costo acumulado: 1000
+Semana 4, trabajadores: 4, mejor anterior: 4, costo acumulado: 1200
+Semana 4, trabajadores: 5, mejor anterior: 5, costo acumulado: 1400
+Semana 4, trabajadores: 6, mejor anterior: 6, costo acumulado: 1600
+Semana 4, trabajadores: 7, mejor anterior: 7, costo acumulado: 1800
+Semana 4, trabajadores: 8, mejor anterior: 8, costo acumulado: 2000
+Semana 4, trabajadores: 9, mejor anterior: 9, costo acumulado: 2200
+Semana 4, trabajadores: 10, mejor anterior: 10, costo acumulado: 2400
+Semana 4, trabajadores: 11, mejor anterior: 11, costo acumulado: 2600
+Semana 4, trabajadores: 12, mejor anterior: 12, costo acumulado: 2800
+Semana 5, trabajadores: 0, mejor anterior: 0, costo acumulado: 400
+Semana 5, trabajadores: 1, mejor anterior: 1, costo acumulado: 600
+Semana 5, trabajadores: 2, mejor anterior: 2, costo acumulado: 800
+Semana 5, trabajadores: 3, mejor anterior: 3, costo acumulado: 1000
+Semana 5, trabajadores: 4, mejor anterior: 4, costo acumulado: 1200
+Semana 5, trabajadores: 5, mejor anterior: 5, costo acumulado: 1400
+Semana 5, trabajadores: 6, mejor anterior: 6, costo acumulado: 1600
+Semana 5, trabajadores: 7, mejor anterior: 7, costo acumulado: 1800
+Semana 5, trabajadores: 8, mejor anterior: 8, costo acumulado: 2000
+Semana 5, trabajadores: 9, mejor anterior: 9, costo acumulado: 2200
+Semana 5, trabajadores: 10, mejor anterior: 10, costo acumulado: 2400
+Semana 5, trabajadores: 11, mejor anterior: 11, costo acumulado: 2600
+Semana 5, trabajadores: 12, mejor anterior: 12, costo acumulado: 2800
+
+🔄 Plan óptimo de trabajadores por semana:
+Semana 1: 6 trabajadores
+Semana 2: 6 trabajadores
+Semana 3: 6 trabajadores
+Semana 4: 6 trabajadores
+Semana 5: 6 trabajadores
+
+💰 Costo total mínimo: $1600
