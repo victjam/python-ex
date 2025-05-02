@@ -1,0 +1,18 @@
+Matplotlib is building the font cache; this may take a moment.
+1) INVERSOR:
+   x* = 1.0000, y* = 0.0000, rendimiento ≈ 0.1000
+
+2) COMPAÑÍA:
+   x* ≈ 13.0435, y* ≈ 21.7391, z* ≈ 65.2174
+   
+3) DESCENSO DEL GRADIENTE:
+   Valor final f ≈ -2.2379
+   Punto final ≈ [ 1.          1.         -1.41203907]
+
+4) MINIMIZACIÓN UNIVARIABLE:
+   Mínimo en x* = 2, f(x*) = 17
+
+5) PUNTOS ESTACIONARIOS:
+   f(x)=x^2: x=0 → mínimo
+   f(x)=-x^2: x=0 → máximo
+   f(x)=x^3: x=0 → punto de inflexión
