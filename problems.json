@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Ejemplo: inversi\u00f3n",
+    "variables": [
+      "x",
+      "y"
+    ],
+    "objective_function": "0.1*x + 0.08*y",
+    "equality_constraints": [
+      "x + y - 1"
+    ],
+    "inequality_constraints": [
+      "0.02*x**2 + 0.03*y**2 - 0.05"
+    ]
+  },
+  {
+    "name": "Univariable prueba",
+    "variables": [
+      "x"
+    ],
+    "objective_function": "x**2 + 4*x + 5",
+    "equality_constraints": [],
+    "inequality_constraints": []
+  }
+]

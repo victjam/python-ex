@@ -1,4 +1,6 @@
-Matplotlib is building the font cache; this may take a moment.
+
+Codigo: https://github.com/victjam/python-ex/blob/main/tarea_v.py
+
 1) INVERSOR:
    x* = 1.0000, y* = 0.0000, rendimiento ≈ 0.1000
 
